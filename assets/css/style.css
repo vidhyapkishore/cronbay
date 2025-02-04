@@ -1,1 +1,17 @@
+.job-description{
+    color: #949494;
+}
 
+.end-date{
+
+    font-size: 12px;
+}
+
+
+.container-h-100 {
+    height: 100vh !important;
+    display: flex
+;
+    flex-direction: column;
+    justify-content: center;
+}
